@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/9e86124c-cb87-4cb7-80ad-0ee878b536c5/microsoft.web/sites/subscriptions/9e86124c-cb87-4cb7-80ad-0ee878b536c5/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/golchi",
+    "appService.deploySubpath": "."
+}
